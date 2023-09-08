@@ -1,2 +1,2 @@
-# dylando9.github.io
-Personal Portfolio
+# Hi, my name is Dylan
+An aspiring Software Engineer
